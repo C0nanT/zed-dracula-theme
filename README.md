@@ -1,6 +1,6 @@
-# Dracula for [Zed](https://zed.dev)
+# Dracula Conan for [Zed](https://zed.dev)
 
-> A dark theme for [Zed](https://zed.dev).
+> Personal fork of [dracula/zed](https://github.com/dracula/zed) by Ben Hamment, recolored with the Dracula Visual Studio Code / Cursor palette. Not the official theme.
 
 ![Dracula theme for Zed - dark](./screenshot/01-dracula.png)
 
